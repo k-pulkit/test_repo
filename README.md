@@ -16,5 +16,13 @@
 * git pull origin master: Pull the changes to local 
 * git checkout origin/master
 * git diff HEAD origin/master
+* git merge origin master
+
+* git reset --hard HEAD~1
+
+* git branch: show branches
+
+
+
 
 
