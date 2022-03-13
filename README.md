@@ -6,13 +6,10 @@
 3. git log --oneline: It tells you the commit history so far
 4. git remote add origin url: Adds the remote repository link
 5. git remote -v: Shows the remote origin links
-6. 
 7. git stash push -m "Why stashing": Moves modified to stashing area
 8. git stash pop: Reaaplied modifications to files
-9. 
 10. git remote show origin: status of origin
 11. git fetch origin master: Download remote commits and changes
-12. git pull origin master: Pull the changes to local
-13. 
+12. git pull origin master: Pull the changes to local 
 
 changess
